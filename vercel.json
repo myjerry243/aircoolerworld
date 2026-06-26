@@ -1,0 +1,7 @@
+{
+  "redirects": [
+    { "source": "/", "destination": "/en/index.html" }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": false
+}
